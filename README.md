@@ -16,6 +16,8 @@ powered by the u8g2 library by olikraus
 
 READ THIS BEFORE USING!!!
 
+The main code can be found at esp32disptest3d/src/main.cpp <--
+
 Hello! its me Matt, i'm the creator of this program.This program was created for testing my new 128x64 lcd display
 i got for christmas and because i'm a sucker for physics, programing challenges and logical thinking i decided to
 create this little program for fun and for me to learn something new! Now the only things you should change to use
