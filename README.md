@@ -7,7 +7,7 @@ PD&DPT
 
 
 
-Physics Demostration and Display Testing Program (v1.0)
+Physics Demostration and Display Testing Program
 by Eco_Man_CZ (Matt)
 powered by the u8g2 library by olikraus
 
@@ -16,7 +16,7 @@ powered by the u8g2 library by olikraus
 
 READ THIS BEFORE USING!!!
 
-The main code can be found at esp32disptest3d/src/main.cpp <--
+The main code can be found at PTDTP11/src/main.cpp <--
 
 Hello! its me Matt, i'm the creator of this program.This program was created for testing my new 128x64 lcd display
 i got for christmas and because i'm a sucker for physics, programing challenges and logical thinking i decided to
